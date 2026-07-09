@@ -92,8 +92,8 @@ Comparison Dashboard
 
 Edit Interactions
 
-![Edit Interactions](screenshots/Edit Interactions.png)
+![Edit Interactions](screenshots/Edit_Interactions.png)
 
 Table Visuals
 
-![Table Visuals](screenshots/Table Visuals.png)
+![Table Visuals](screenshots/Table_Visuals.png)
